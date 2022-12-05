@@ -1,17 +1,17 @@
 # A simple blog website
 
-### Register page
+## Register page
 ![](images/reg.PNG)
 
-### Login page
+## Login page
 ![](images/login.PNG)
 
-### Home page
+## Home page
 ![](images/1.PNG)
 
 ![](images/2.PNG)
 
-### blog page
+## blog page
 ![](images/cinema-cat.PNG)
 
 ![](images/cinema-cat2.PNG)
