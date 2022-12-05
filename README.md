@@ -2,8 +2,8 @@
 
 ### Register page
 ![](images/reg.PNG)
-### Logout page
-
+### Login page
+​![](images/kogin.PNG)
 ### Home page
 
 ### blog page
