@@ -9,6 +9,8 @@
 ### Home page
 ![](images/1.PNG)
 
+![](images/2.PNG)
+
 ### blog page
 ![](images/cinema-cat.PNG)
 
