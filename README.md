@@ -12,3 +12,4 @@
 ### blog page
 ![](images/cinema-cat.PNG)
 
+![](images/cinema-cat2.PNG)
