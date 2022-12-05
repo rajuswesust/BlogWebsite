@@ -2,8 +2,10 @@
 
 ### Register page
 ![](images/reg.PNG)
+
 ### Login page
-​![](images/kogin.PNG)
+![](images/kogin.PNG)
+
 ### Home page
 
 ### blog page
