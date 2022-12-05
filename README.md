@@ -16,5 +16,5 @@
 
 ![](images/cinema-cat2.PNG)
 
-## Write new blog
+## Publish a new blog
 ![](images/3.PNG)
