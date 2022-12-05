@@ -10,4 +10,5 @@
 ![](images/1.PNG)
 
 ### blog page
+![](images/3.PNG)
 
