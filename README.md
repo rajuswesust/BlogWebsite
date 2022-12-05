@@ -11,7 +11,7 @@
 
 ![](images/2.PNG)
 
-## blog page
+## Blog page
 ![](images/cinema-cat.PNG)
 
 ![](images/cinema-cat2.PNG)
