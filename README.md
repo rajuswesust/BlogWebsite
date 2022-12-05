@@ -7,6 +7,7 @@
 ![](images/login.PNG)
 
 ### Home page
+![](images/1.PNG)
 
 ### blog page
 
