@@ -4,7 +4,7 @@
 ![](images/reg.PNG)
 
 ### Login page
-![](images/kogin.PNG)
+![](images/login.PNG)
 
 ### Home page
 
