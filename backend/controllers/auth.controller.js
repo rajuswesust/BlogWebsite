@@ -3,12 +3,6 @@ const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 
 
-exports.dhon = (req, res) => {
-  db.query("SELECT * FROM users", (err, result) => {
-    res.json({ result });
-  });
-};
-
 exports.login = (req, res) => {
 
   const query = "SELECT * FROM users WHERE username=?";
